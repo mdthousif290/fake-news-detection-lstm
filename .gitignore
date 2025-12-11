@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+*.log
+__pycache__/
+*.pytest_cache/
+
+# Optional: ignore large data artifacts if you'd prefer to keep them out of Git
+# data/
+# *.h5
